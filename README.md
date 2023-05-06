@@ -19,13 +19,13 @@ Pour installer et jouer au jeu, suivez les étapes ci-dessous :
 1. Clonez ce dépôt GitHub sur votre ordinateur en utilisant la commande suivante :
 
    ```
-   git clone https://github.com/Krizold/Space-Invader.git
+   git clone https://github.com/Krizold/Pong.git
    ```
 
 2. Accédez au dossier du projet cloné :
 
    ```
-   cd Space-Invader
+   cd Pong
    ```
 
 3. Ouvrez le fichier `index.html` dans votre navigateur web préféré.
@@ -36,10 +36,7 @@ Pour installer et jouer au jeu, suivez les étapes ci-dessous :
 - CSS3
 - JavaScript
 
-## Auteurs
+## Auteur
 
-- [Votre nom] (https://github.com/Krizold)
+- Jérôme Bernier (https://github.com/Krizold)
 
-## Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
