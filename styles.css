@@ -1,0 +1,17 @@
+/* Styles de base pour le jeu */
+canvas {
+    display: none;
+    margin: 0 auto;
+    background-color: black;
+  }
+  
+  form {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  label, input, button {
+    margin: 5px;
+  }
+  
