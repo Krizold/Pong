@@ -38,5 +38,5 @@ Pour installer et jouer au jeu, suivez les étapes ci-dessous :
 
 ## Auteur
 
-- Jérôme Bernier (https://github.com/Krizold)
+- Jérôme BERNIER (https://github.com/Krizold)
 
